@@ -6,3 +6,4 @@ apt-get install default-jdk -qq
 
 #docker must be installed on slave
 #local docker repositiry musy be installed on slave
+#local docker-compose must be installed on the slave
